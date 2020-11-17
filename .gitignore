@@ -8,3 +8,7 @@ dist
 DESlib.egg-info
 .idea
 .pytest_cache
+
+
+# ignore virtual env
+dev_env
